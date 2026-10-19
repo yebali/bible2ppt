@@ -1,0 +1,24 @@
+# 이 PC의 설정 (번역본·저장 폴더·최근 입력)
+settings.json
+settings.tmp
+
+# 파이썬
+.venv/
+__pycache__/
+*.pyc
+
+# PyInstaller 빌드 결과
+build/
+dist/
+*.spec
+
+# PowerPoint가 파일을 열 때 만드는 잠금 파일
+~$*.pptx
+
+# 디자인 시안 (브레인스토밍 화면)
+.superpowers/
+
+# 편집기·OS
+.DS_Store
+.idea/
+.vscode/
